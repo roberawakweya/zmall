@@ -716,7 +716,7 @@ img {
 }
 
 .download-area {
-  background: rgba(0, 0, 0, 0) url("../img/bg/download-bg.jpg") no-repeat fixed center center/cover;
+  background: linear-gradient(-47deg, #f12235 0%, #000000 100%);
 }
 
 .subscribe-area {
